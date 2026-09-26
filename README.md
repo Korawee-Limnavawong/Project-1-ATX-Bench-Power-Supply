@@ -17,11 +17,11 @@ This project is a mid-term exam for electronic circuit lab
 ## Source PSU Specifications
 
 *   **Label Transcription:** +3.3V (20A), +5V (20A), +12V (37.4A), +5VSB (3A). Total combined power: 450W.
-*   **Verified Connector View:** *(Image Reference)*
+*   **Verified Connector View:** *![alt text](image-9.png)*
 
 ## Hardware Design
 
-*(Diagram/Sketch References)*
+*![alt text](image-10.png)*
 
 ### Bill of Materials (BOM)
 
@@ -46,9 +46,14 @@ This project is a mid-term exam for electronic circuit lab
 *   **Thermal Calculations:** Expected power dissipation at full test load ($P=I^2R$), ensuring it remains below the 60°C component limit.
 
 ## Construction Evidence
+**picture of a original wire from cutting all pin head**
+*![alt text](image-8.png)*
+ **Picture of front display side**
+*![alt text](image-7.png)*
+**Picture of completed project**
+*![alt text](image-6.png)*
 
-*(Assembly and Final Build Image References)*
-
+*![alt text](image-5.png)*
 ## Testing & Acceptance Evidence
 
 ### Unpowered Checks: Resistance
