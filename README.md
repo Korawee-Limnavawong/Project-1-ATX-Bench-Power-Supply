@@ -17,11 +17,13 @@ This project is a mid-term exam for electronic circuit lab
 ## Source PSU Specifications
 
 *   **Label Transcription:** +3.3V (20A), +5V (20A), +12V (37.4A), +5VSB (3A). Total combined power: 450W.
-*   **Verified Connector View:** *![alt text](image-9.png)*
+*   **Verified Connector View:** <img width="1043" height="1000" alt="image" src="https://github.com/user-attachments/assets/cfec91a4-a2f1-4a5c-9faa-0c89e66f05dd" />
+
 
 ## Hardware Design
 
-*![alt text](image-10.png)*
+<img width="1129" height="1000" alt="image" src="https://github.com/user-attachments/assets/f73041de-12bc-460e-8b45-070280ae4555" />
+
 
 ### Bill of Materials (BOM)
 
@@ -47,13 +49,18 @@ This project is a mid-term exam for electronic circuit lab
 
 ## Construction Evidence
 **picture of a original wire from cutting all pin head**
-*![alt text](image-8.png)*
- **Picture of front display side**
-*![alt text](image-7.png)*
-**Picture of completed project**
-*![alt text](image-6.png)*
 
-*![alt text](image-5.png)*
+<img width="281" height="367" alt="image" src="https://github.com/user-attachments/assets/58e33ac4-5e17-4220-ba36-7f88a90de681" />
+ 
+ **Picture of front display side**
+
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/86e84773-fb4a-43ad-9c7c-97f34ec07abd" />
+
+**Picture of completed project**
+
+<img width="1206" height="1608" alt="image" src="https://github.com/user-attachments/assets/2b5d1934-aff7-4afc-8845-95e616a2c020" />
+<img width="1206" height="1608" alt="image" src="https://github.com/user-attachments/assets/17573818-8147-4d0a-b81a-d8f08c1a66d1" />
+
 ## Testing & Acceptance Evidence
 
 ### Unpowered Checks: Resistance
