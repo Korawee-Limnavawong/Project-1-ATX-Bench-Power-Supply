@@ -54,12 +54,12 @@ This project is a mid-term exam for electronic circuit lab
  
  **Picture of front display side**
 
-<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/86e84773-fb4a-43ad-9c7c-97f34ec07abd" />
+<img width="281" height="367" alt="image" src="https://github.com/user-attachments/assets/86e84773-fb4a-43ad-9c7c-97f34ec07abd" />
 
 **Picture of completed project**
 
-<img width="1206" height="1608" alt="image" src="https://github.com/user-attachments/assets/2b5d1934-aff7-4afc-8845-95e616a2c020" />
-<img width="1206" height="1608" alt="image" src="https://github.com/user-attachments/assets/17573818-8147-4d0a-b81a-d8f08c1a66d1" />
+<img width="281" height="367" alt="image" src="https://github.com/user-attachments/assets/2b5d1934-aff7-4afc-8845-95e616a2c020" />
+<img width="281" height="367" alt="image" src="https://github.com/user-attachments/assets/17573818-8147-4d0a-b81a-d8f08c1a66d1" />
 
 ## Testing & Acceptance Evidence
 
