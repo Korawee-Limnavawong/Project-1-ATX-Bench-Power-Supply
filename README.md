@@ -1,4 +1,4 @@
-# Electronics-lab-2026
+# Project 1: ATX Bench Power Supply
 This project is a mid-term exam for electronic circuit lab
 ## Project Overview & Team
 
